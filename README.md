@@ -54,5 +54,7 @@ sudo pip install tweepy
  ## Contact Information
 
 Connect with me on LinkedIn: [VIJAY ASHOK KARLAWAD](https://www.linkedin.com/in/vijayashokkarlawad/)
+
 Connect with me on Twitter: [VIJAY ASHOK KARLAWAD](https://twitter.com/VIJAY_A_K1405)
+
 For inquiries, reach out via email: vijaykarlawad1416@gmail.com
