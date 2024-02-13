@@ -29,7 +29,7 @@ In this project, I explored building a data pipeline for Twitter data using the 
 
 
 
-**Overall, this project showcases my ability to:**
+## Overall, this project showcases my ability to:
 
 Work with cloud technologies like AWS S3 and EC2.
 
