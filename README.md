@@ -1,7 +1,7 @@
 # Twitter-data-pipeline
 Excited to share my latest project: Building a data pipeline for Twitter using Airflow, Python, &amp; AWS (S3 &amp; EC2)!  A powerful combo for collecting &amp; analyzing Twitter data.
 
-## Description:
+## Description
 
 In this project, I explored building a data pipeline for Twitter data using the following technologies:
 
@@ -13,7 +13,7 @@ In this project, I explored building a data pipeline for Twitter data using the 
 
 
 
-## Key Steps:
+## Key Steps
 
 **1. Twitter API:** Downloaded and integrated the Twitter API for data extraction.
 
@@ -29,7 +29,7 @@ In this project, I explored building a data pipeline for Twitter data using the 
 
 
 
-## Overall, this project showcases my ability to:
+## Overall, this project showcases my ability to
 
 Work with cloud technologies like AWS S3 and EC2.
 
