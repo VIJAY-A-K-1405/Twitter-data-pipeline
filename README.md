@@ -58,3 +58,6 @@ Connect with me on LinkedIn: [VIJAY ASHOK KARLAWAD](https://www.linkedin.com/in/
 Connect with me on Twitter: [VIJAY ASHOK KARLAWAD](https://twitter.com/VIJAY_A_K1405)
 
 For inquiries, reach out via email: vijaykarlawad1416@gmail.com
+
+Thank you for exploring this project! 
+Feedback and suggestions are appreciated!
